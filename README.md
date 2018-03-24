@@ -1,2 +1,5 @@
 # mariacandelario.github.io
-Assignments
+
+Assignments and Notes
+
+
